@@ -1,0 +1,5 @@
+[17-01-18 06:39:43] ------------------
+[17-01-18 06:39:43] Starting Execution
+[17-01-18 06:39:43] No of Assemblies Searched: 11, No of DataSources Found: 0, No of DataSources Excluded: 0, No of Iterations Created: 0, Total Time Taken: 00:00:00.0063496.
+[17-01-18 06:39:43] Finishing Execution
+[17-01-18 06:39:43] ------------------

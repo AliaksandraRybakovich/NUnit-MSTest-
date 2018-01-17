@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="07cd1a62-e82d-4d9c-91c2-b20364f28c69" name="Alex@DESKTOP-ST2MS2L 2018-01-17 23:47:14" runUser="DESKTOP-ST2MS2L\Alex" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="1dd22729-55d6-4d0a-aa1b-af8da29cfe28">
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Deployment runDeploymentRoot="Alex_DESKTOP-ST2MS2L 2018-01-17 23_47_14" />
+    <Properties />
+  </TestSettings>
+  <Times creation="2018-01-17T23:47:14.8899122+03:00" queuing="2018-01-17T23:47:16.0334111+03:00" start="2018-01-17T23:47:16.2822072+03:00" finish="2018-01-17T23:47:16.4786519+03:00" />
+  <ResultSummary outcome="NotRunnable">
+    <Counters total="4" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="4" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="CheckSqrtMsTest" storage="mstestforcalculator.dll" id="545a8a96-517f-91f5-e2c6-e2c0602f88bb">
+      <Execution id="2d707a9b-61b5-4000-ab2d-1e70e21a558d" />
+      <TestMethod codeBase="E:/NUnitAndMSTestForCalculator/MSTestForCalculator/bin/Debug/MSTestForCalculator.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MSTestForCalculator.SqrtMsTest, MSTestForCalculator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CheckSqrtMsTest" />
+    </UnitTest>
+    <UnitTest name="CheckSinMsTest" storage="mstestforcalculator.dll" id="9994b6da-9c13-6a15-3bb4-ad532e4d4a25">
+      <Execution id="fc6daf46-a6c9-4632-abf6-da684a306350" />
+      <TestMethod codeBase="E:/NUnitAndMSTestForCalculator/MSTestForCalculator/bin/Debug/MSTestForCalculator.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MSTestForCalculator.SinMsTest, MSTestForCalculator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CheckSinMsTest" />
+    </UnitTest>
+    <UnitTest name="CheckPowMsTest" storage="mstestforcalculator.dll" id="5596412c-ed7d-1faf-30ef-f81be2d8d920">
+      <Execution id="1195f3db-85ae-4aca-a59d-79f1c6063abc" />
+      <TestMethod codeBase="E:/NUnitAndMSTestForCalculator/MSTestForCalculator/bin/Debug/MSTestForCalculator.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MSTestForCalculator.PowMsTest, MSTestForCalculator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CheckPowMsTest" />
+    </UnitTest>
+    <UnitTest name="CheckSubMsTest" storage="mstestforcalculator.dll" id="f520a1e2-d9f7-b8fe-2a37-f396ebb0ea2f">
+      <Execution id="efc62733-1d94-43a8-b204-b296faa30b43" />
+      <TestMethod codeBase="E:/NUnitAndMSTestForCalculator/MSTestForCalculator/bin/Debug/MSTestForCalculator.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MSTestForCalculator.SubMsTest, MSTestForCalculator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CheckSubMsTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="5596412c-ed7d-1faf-30ef-f81be2d8d920" executionId="1195f3db-85ae-4aca-a59d-79f1c6063abc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9994b6da-9c13-6a15-3bb4-ad532e4d4a25" executionId="fc6daf46-a6c9-4632-abf6-da684a306350" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="545a8a96-517f-91f5-e2c6-e2c0602f88bb" executionId="2d707a9b-61b5-4000-ab2d-1e70e21a558d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f520a1e2-d9f7-b8fe-2a37-f396ebb0ea2f" executionId="efc62733-1d94-43a8-b204-b296faa30b43" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="1195f3db-85ae-4aca-a59d-79f1c6063abc" testId="5596412c-ed7d-1faf-30ef-f81be2d8d920" testName="CheckPowMsTest" computerName="DESKTOP-ST2MS2L" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotRunnable" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1195f3db-85ae-4aca-a59d-79f1c6063abc">
+      <Output>
+        <ErrorInfo>
+          <Message>UTA007: Method CheckPowMsTest defined in class MSTestForCalculator.PowMsTest does not have correct signature. Test method marked with the [TestMethod] attribute must be non-static, public, does not return a value and should not take any parameter. for example: public void Test.Class1.Test().  Additionally, return-type must be Task if you are running async unit tests. Example: public async Task Test.Class1.Test2().</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="fc6daf46-a6c9-4632-abf6-da684a306350" testId="9994b6da-9c13-6a15-3bb4-ad532e4d4a25" testName="CheckSinMsTest" computerName="DESKTOP-ST2MS2L" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotRunnable" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fc6daf46-a6c9-4632-abf6-da684a306350">
+      <Output>
+        <ErrorInfo>
+          <Message>UTA007: Method CheckSinMsTest defined in class MSTestForCalculator.SinMsTest does not have correct signature. Test method marked with the [TestMethod] attribute must be non-static, public, does not return a value and should not take any parameter. for example: public void Test.Class1.Test().  Additionally, return-type must be Task if you are running async unit tests. Example: public async Task Test.Class1.Test2().</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="2d707a9b-61b5-4000-ab2d-1e70e21a558d" testId="545a8a96-517f-91f5-e2c6-e2c0602f88bb" testName="CheckSqrtMsTest" computerName="DESKTOP-ST2MS2L" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotRunnable" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2d707a9b-61b5-4000-ab2d-1e70e21a558d">
+      <Output>
+        <ErrorInfo>
+          <Message>UTA007: Method CheckSqrtMsTest defined in class MSTestForCalculator.SqrtMsTest does not have correct signature. Test method marked with the [TestMethod] attribute must be non-static, public, does not return a value and should not take any parameter. for example: public void Test.Class1.Test().  Additionally, return-type must be Task if you are running async unit tests. Example: public async Task Test.Class1.Test2().</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="efc62733-1d94-43a8-b204-b296faa30b43" testId="f520a1e2-d9f7-b8fe-2a37-f396ebb0ea2f" testName="CheckSubMsTest" computerName="DESKTOP-ST2MS2L" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotRunnable" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="efc62733-1d94-43a8-b204-b296faa30b43">
+      <Output>
+        <ErrorInfo>
+          <Message>UTA007: Method CheckSubMsTest defined in class MSTestForCalculator.SubMsTest does not have correct signature. Test method marked with the [TestMethod] attribute must be non-static, public, does not return a value and should not take any parameter. for example: public void Test.Class1.Test().  Additionally, return-type must be Task if you are running async unit tests. Example: public async Task Test.Class1.Test2().</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

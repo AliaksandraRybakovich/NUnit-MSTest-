@@ -1,0 +1,17 @@
+E:\NUnitAndMSTestForCalculator\MSTestForCalculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\NUnitAndMSTestForCalculator\MSTestForCalculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\NUnitAndMSTestForCalculator\MSTestForCalculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\NUnitAndMSTestForCalculator\MSTestForCalculator\bin\Debug\MSTestForCalculator.dll
+E:\NUnitAndMSTestForCalculator\MSTestForCalculator\bin\Debug\MSTestForCalculator.pdb
+E:\NUnitAndMSTestForCalculator\MSTestForCalculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\NUnitAndMSTestForCalculator\MSTestForCalculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\NUnitAndMSTestForCalculator\MSTestForCalculator\bin\Debug\MSTestHacks.dll
+E:\NUnitAndMSTestForCalculator\MSTestForCalculator\bin\Debug\Newtonsoft.Json.dll
+E:\NUnitAndMSTestForCalculator\MSTestForCalculator\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\NUnitAndMSTestForCalculator\MSTestForCalculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\NUnitAndMSTestForCalculator\MSTestForCalculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\NUnitAndMSTestForCalculator\MSTestForCalculator\bin\Debug\MSTestHacks.pdb
+E:\NUnitAndMSTestForCalculator\MSTestForCalculator\bin\Debug\Newtonsoft.Json.xml
+E:\NUnitAndMSTestForCalculator\MSTestForCalculator\obj\Debug\MSTestForCalculator.csprojResolveAssemblyReference.cache
+E:\NUnitAndMSTestForCalculator\MSTestForCalculator\obj\Debug\MSTestForCalculator.dll
+E:\NUnitAndMSTestForCalculator\MSTestForCalculator\obj\Debug\MSTestForCalculator.pdb
